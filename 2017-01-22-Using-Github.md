@@ -1,5 +1,5 @@
 ---
-title: Using GitHub
+title: (Using Github)
 layout: post
 author: felix.warry
 permalink: /using-GitHub/
