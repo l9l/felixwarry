@@ -1,5 +1,5 @@
 ---
-title: ,Using Github,
+title: IT lesson 2
 layout: post
 author: felix.warry
 permalink: /,using-github,/
@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Making a blog</td>
+    <td>IT lesson 2</td>
     <td>Date</td>
-    <td>23/1/17</td>
+    <td>16/1/17</td>
   </tr>
 </table>
 
