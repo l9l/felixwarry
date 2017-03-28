@@ -8,14 +8,15 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
-    <td>border: 1px</td>
+  <td>Title</td>
     <td>IT lesson 2</td>
     <td>Date</td>
     <td>16/1/17</td>
   </tr>
 </table>
-
+table, th, td {
+   border: 1px solid black;
+}
 
 <table>
   <tr>
