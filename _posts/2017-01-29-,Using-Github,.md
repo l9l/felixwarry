@@ -14,9 +14,7 @@ published: true
     <td>16/1/17</td>
   </tr>
 </table>
-table, th, td {
-   border: 1px solid black;
-}
+
 
 <table>
   <tr>
